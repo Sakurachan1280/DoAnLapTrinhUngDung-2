@@ -6,8 +6,8 @@
 
 ### 1. Chức năng cơ bản:
 ### a. Đăng ký và Đăng nhập:
-- ** Người dùng có thể tạo tài khoản hoặc đăng nhập bằng email, số điện thoại.
-- ** Xác thực và bảo mật bằng mã OTP hoặc xác minh qua email.
+- **Người dùng có thể tạo tài khoản hoặc đăng nhập bằng email, số điện thoại.
+- **Xác thực và bảo mật bằng mã OTP hoặc xác minh qua email.
 ### b. Tìm kiếm sản phẩm:
 - ** Tìm kiếm theo từ khóa, danh mục, hoặc bộ lọc (size, màu sắc, thương hiệu, giá, v.v.).
 - ** Lọc sản phẩm theo giá, đánh giá, độ phổ biến, hoặc các yếu tố khác.
